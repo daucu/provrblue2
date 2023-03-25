@@ -1,0 +1,8 @@
+.propvr::-webkit-scrollbar {
+  height: 4px;
+  background: black;
+}
+.propvr::-webkit-scrollbar-thumb {
+  background: #4600b9;
+  border-radius: 2px;
+}
